@@ -1,0 +1,6 @@
+mkdir Jaime_le_shell
+cd Jaime_le_shell
+touch test1 test5
+mkdir test2 test3 test4 test6
+chmod 644 test1 test5
+chmod 755 test2 test3 test4 test6
